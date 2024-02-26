@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... react js and angular 
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... LinkedIn
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I speak chinese! not perfect though.
 
