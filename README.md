@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...Graph Neural Networks
+- 🔭 I’m currently working on ...State Space Models, Specifically Mamba
 - 🌱 I’m currently learning ...Deep Learning Methods
 - 👯 I’m looking to collaborate on ... Deep Learning Projects
 - 🤔 I’m looking for help with ... networking 
